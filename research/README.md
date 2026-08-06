@@ -1,0 +1,5 @@
+- Market Research
+- AI Research
+- Stakeholder Analysis
+- ROI Analysis
+- Business Scope
